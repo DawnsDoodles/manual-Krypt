@@ -1,2 +1,7 @@
-# manual-Krypt
-Defile graves for Archipelago checks! (Inspired by Mortal Kombat)
+# Archipelago Krypt (AP Manual)
+[In progress, will come back later]
+
+## What Are You Searching For?
+
+
+## Play Guide
